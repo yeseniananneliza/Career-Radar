@@ -4,8 +4,6 @@ A self-updating job radar that filters thousands of listings down to the APM, in
 
 **[Open the live demo →](https://yeseniananneliza.github.io/Career-Radar/)**
 
-![Career Radar dashboard](screenshot.png)
-
 ## The problem
 
 APM programs open for a few weeks a year, and many entry-level PM roles never use the word "APM." Job boards show thousands of listings, most of which a student can't apply to: senior roles, Master's-only roles, internships for terms that have already passed. By the time I found the right roles, the best windows were already closing.
